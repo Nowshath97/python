@@ -26,4 +26,13 @@ arr = array('i',[5,4,1,9,3])
 
 newArr = array(arr.typecode,(b*b for b in arr))
 for i in range(len(newArr)):
+
     print(newArr[i])
+
+    print(newArr[i])
+
+n=5
+while n<10:
+    print("Git test")
+    n+=1
+
